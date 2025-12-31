@@ -1,0 +1,18 @@
+{
+  "latest": {
+    "version": "1.0.2",
+    "versionCode": 2,
+    "downloadUrl": "https://github.com/coolwinter93/tk_gym_release/releases/download/v1.0.2/gym_pro_1.0.2_arm64-v8a.apk",
+    "downloadUrls": {
+      "arm64-v8a": "https://github.com/coolwinter93/tk_gym_release/releases/download/v1.0.2/gym_pro_1.0.2_arm64-v8a.apk",
+      "armeabi-v7a": "https://github.com/coolwinter93/tk_gym_release/releases/download/v1.0.2/gym_pro_1.0.2_armeabi-v7a.apk",
+      "x86_64": "https://github.com/coolwinter93/tk_gym_release/releases/download/v1.0.2/gym_pro_1.0.2_x86_64.apk"
+    },
+    "releaseNotes": "Version 1.0.2",
+    "fileSize": 28118430,
+    "minRequiredVersion": null,
+    "forceUpdate": false,
+    "releaseDate": "2025-12-31"
+  },
+  "history": []
+}
