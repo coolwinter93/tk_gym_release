@@ -1,15 +1,20 @@
 {
   "latest": {
-    "versionCode": 10,
+    "forceUpdate": false,
+    "releaseNotes": "Version 1.0.3",
+    "releaseDate": "2026-01-02",
+    "fileSize": 17696446,
+    "versionCode": 12,
     "minRequiredVersion": null,
     "downloadUrl": "https://github.com/coolwinter93/tk_gym_release/releases/download/w1.0.3/GymProSetup_1.0.3.exe",
-    "fileSize": 17701284,
-    "releaseNotes": "Version 1.0.3",
-    "forceUpdate": false,
-    "releaseDate": "2026-01-02",
     "version": "1.0.3"
   },
   "history": [
+    {
+      "version": "1.0.3",
+      "releaseDate": "2026-01-02",
+      "versionCode": 10
+    },
     {
       "releaseDate": "2026-01-02",
       "version": "1.0.2",
