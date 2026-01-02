@@ -1,15 +1,20 @@
 {
   "latest": {
-    "downloadUrl": "https://github.com/coolwinter93/tk_gym_release/releases/download/w1.0.4/GymProSetup_1.0.4.exe",
-    "releaseNotes": "Version 1.0.4",
-    "fileSize": 17767244,
-    "forceUpdate": false,
-    "releaseDate": "2026-01-02",
-    "minRequiredVersion": null,
+    "versionCode": 16,
     "version": "1.0.4",
-    "versionCode": 16
+    "releaseDate": "2026-01-02",
+    "forceUpdate": false,
+    "downloadUrl": "https://github.com/coolwinter93/tk_gym_release/releases/download/w1.0.4/GymProSetup_1.0.4.exe",
+    "minRequiredVersion": null,
+    "fileSize": 17769081,
+    "releaseNotes": "Version 1.0.4"
   },
   "history": [
+    {
+      "version": "1.0.4",
+      "releaseDate": "2026-01-02",
+      "versionCode": 16
+    },
     {
       "releaseDate": "2026-01-02",
       "versionCode": 15,
