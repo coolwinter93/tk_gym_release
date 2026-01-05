@@ -48,6 +48,16 @@
   ],
   "android": [
     {
+      "version": "1.0.12",
+      "build": 17,
+      "date": "2026-01-05T06:57:34Z",
+      "downloads": {
+        "arm64-v8a": "https://github.com/coolwinter93/tk_gym_release/releases/download/s1.0.12/Iron-Pulse-1.0.12-arm64-v8a.apk",
+        "armeabi-v7a": "https://github.com/coolwinter93/tk_gym_release/releases/download/s1.0.12/Iron-Pulse-1.0.12-armeabi-v7a.apk",
+        "x86_64": "https://github.com/coolwinter93/tk_gym_release/releases/download/s1.0.12/Iron-Pulse-1.0.12-x86_64.apk"
+      }
+    },
+    {
       "version": "1.0.8",
       "build": 13,
       "date": "2026-01-05T02:43:54Z",
